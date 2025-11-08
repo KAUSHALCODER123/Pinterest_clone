@@ -8,9 +8,9 @@ const Footer = () => {
           © 2025 Pinterest Clone by{' '}
           <a
             className='text-blue-500 hover:text-blue-700 font-medium'
-            href='https://github.com/faisal-din'
+            href='https://github.com/KAUSHALCODER123'
           >
-            Faisal Din
+            Kaushal Rajput
           </a>
           . All rights reserved.
         </p>
