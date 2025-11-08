@@ -1,4 +1,4 @@
-# 📌 - A Pinterest Clone by Faisal Din
+# 📌 - A Pinterest Clone 
 
 A fully-featured Pinterest clone built with the MERN stack (MongoDB, Express, React, Node.js), featuring user authentication, image uploads, interactive pins, comments, like/unlike, follow/unfollow and user profiles.
 
@@ -197,15 +197,5 @@ npm start
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- GitHub: [@faisal-din](https://github.com/faisal-din)
-- LinkedIn: [Faisal Din](https://www.linkedin.com/in/faisal-din56/)
 
 ---
-
-⭐ If you find this project helpful, please give it a star on GitHub! ⭐
